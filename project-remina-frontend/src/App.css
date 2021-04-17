@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.spinnerContainer {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Solid border */
+hr.solid {
+  padding: 5px;
+  border-top: 3px solid #bbb;
+}
