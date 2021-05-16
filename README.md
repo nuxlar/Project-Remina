@@ -1,11 +1,11 @@
 # Project Remina
 App created to level up your day to day by gaining XP for todos, goals, and habits
 ### The app is currently deployed at https://project-remina.web.app/
-### Frontend repo with latest code https://github.com/rmaghsoudi/remina-react
+### Frontend repo with latest code https://github.com/rmaghsoudi/remina-updated-react
 ### Backend repo with latest code https://github.com/rmaghsoudi/remina-django-api
 
 Home page with info about the site and links to sign up or log in through Auth0
-<img width="1440" alt="Screen Shot 2021-04-19 at 8 31 39 AM" src="https://user-images.githubusercontent.com/43018235/115259939-500c7e00-a100-11eb-9034-72bf4b4bcb02.png">
+![remina_landing_page](https://user-images.githubusercontent.com/43018235/118398067-02166780-b625-11eb-8917-600a3499edb1.png)
 
 Authentication and authorization is dealt with by a 3rd party, Auth0
 <img width="956" alt="Screen Shot 2021-04-19 at 8 32 12 AM" src="https://user-images.githubusercontent.com/43018235/115259971-57cc2280-a100-11eb-9c4e-cfce2792f56b.png">
